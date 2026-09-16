@@ -1,6 +1,6 @@
 # Báo cáo Ngày 4 - Keypoint & Pose
 
-Họ tên: ______   Nhóm: ______   Ngày: ______
+Họ tên: Nguyễn Trọng Hùng   Nhóm: solo   Ngày: 16/09
 
 > Cách dùng: copy file này thành `reports/REPORT.md`. Điền bằng số liệu do công cụ sinh ra;
 > không tự ước lượng hoặc sửa số trong file JSON.
@@ -13,10 +13,10 @@ thời gian gán / 20. -->
 
 | Chỉ số | Giá trị |
 | --- | ---: |
-| Số ảnh đã gán | |
-| Số skeleton | |
+| Số ảnh đã gán | 20 |
+| Số skeleton |  |
 | v=2 / v=1 / v=0 | |
-| Thời gian trung bình mỗi ảnh | |
+| Thời gian trung bình mỗi ảnh |5p|
 
 Ba khớp có `%v=1` cao nhất (chép từ `reports/visibility_report.md`):
 
